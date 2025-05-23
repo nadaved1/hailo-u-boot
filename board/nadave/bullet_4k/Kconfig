@@ -1,0 +1,8 @@
+if TARGET_BULLET_4K
+  config SYS_BOARD
+    default "bullet_4k"
+  config SYS_VENDOR
+    default "nadave"
+  config SYS_CONFIG_NAME
+    default "bullet_4k"
+endif
