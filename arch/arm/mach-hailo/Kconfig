@@ -398,6 +398,6 @@ source "board/hailo/hailo10h2-board/Kconfig"
 source "board/hailo/hailo10h2-veloce/Kconfig"
 source "board/hailo/hailo10h2-mint/Kconfig"
 source "board/hailo/hailo10h2-maple/Kconfig"
-source "board/nadave/bullet_4k/Kconfig"
+source "board/nadave/bullet-4k/Kconfig"
 
 endif
